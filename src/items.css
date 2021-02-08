@@ -1,0 +1,16 @@
+.input1{
+    width: 30px;
+    height: 20px;
+    display: inline-flex;
+}
+.Item{
+    border: 2px solid black;
+    width: 600px;
+    height: auto;
+    padding: 25px;
+    margin-top: 15px;
+}
+.one{
+    border-bottom: 2px solid black;
+    margin-top: 10px;
+}
